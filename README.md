@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello World 👋
 
 <aside>
 My name is Hunter Motko. I am an experienced software engineer with a strong background in TypeScript, JavaScript, PostgreSQL, NoSQL, Linux, Golang, C, and Ruby.
@@ -9,6 +9,7 @@ I am skilled in Linux environments, optimizing software performance and troubles
 Additionally, my experience in Golang and Ruby allows me to build high-performance applications.
 I possess strong problem-solving skills, attention to detail, and excel in collaborative environments.
 Overall, I am an adaptable and innovative software engineer ready to contribute my expertise in a dynamic setting.
+Lastly, I love all things terminal and VIM.
 </aside>
 
 ## Projects
