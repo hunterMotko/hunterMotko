@@ -23,12 +23,18 @@ resources are distributed across all 102 Illinois counties.
 Techstack: Next.js, TypeScript, Tailwind CSS, PostgreSQL, Digital Ocean, GitHub CI/CD.
 Link: [https://ilpublicdefenderstats.org/]
 
-### Project 2: my_sqlite
+### Project 2: csvq
+Description: This is a project to change some of the main functionality to what I need a csv parser to 
+do at the moment and improve performance of my_sqlite. If anyone has any functionality they would like to see 
+please create an issue.
+Link: [https://github.com/hunterMotko/csvq]
+
+### Project 3: my_sqlite
 Description: This is a project to interact with csv files like you were using the popular SQLite 
 database engine. The goal of this project was to reproduce the CRUD functionality and easy to use command line operations of SQLite.
 Link: [https://github.com/hunterMotko/my_sqlite]
 
-### Project 3: my_mastermind
+### Project 4: my_mastermind
 Description:  The mastermind game writen in C
 Link: [https://github.com/hunterMotko/my_mastermind]
 
@@ -82,7 +88,7 @@ Feel free to explore my repositories for more projects and code samples.
 ## Contact Information
 
 - LinkedIn: (https://linkedin.com/in/hunter-motko)
-- Portfolio: (http://huntermotko.dev)
+- Portfolio: (https://huntermotko.dev)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or if you just want to connect!
 
